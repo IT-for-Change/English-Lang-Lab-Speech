@@ -10,17 +10,17 @@ These are very early days for this project. The project aims to develop AI based
 - **Pedagogy Centric** : Language learning pedagogy and teacher needs will drive software features, not the technology
 - **Teacher First**    : Support the teacher, minimize student <-> computer interactions
 - **Offline First**    : All run-time features must be available offline. Online may be optionally included
-- **Openness**         : Data, training algorithms and methods will also be open-source, not just an AI model end-product
-- **Extensibility**    : Allow additional voice samples to be easily included in the model pipeline. For example, augment with region-specific accents
-- **Privacy by design**: Avoid collecting sensitive personal data unless the functionality requires it. Incorporate robust privacy practices in design
+- **Openness**         : Data, training algorithms and methods will be open-source, not just an AI model end-product
+- **Extensibility**    : Allow additional voice samples to be easily included in the pipeline. For example, augment with regional accents
+- **Privacy by design**: Avoid collecting sensitive personal data. Incorporate robust privacy practices in design
 
 ## Broad Use cases:
 
 ### Spoken language assessment
-Teachers are invariably constrained by student:teacher ratios, the prescribed syllabus, and time availability. Individual attention to a student suffers as a result. An ASR based solution can help assess a child's language reading/speaking ability and provide feedback to the teacher so they can understand student abilities better and provide targeted assistance to them.
+Teachers are invariably constrained by student:teacher ratios, the prescribed syllabus, and time availability. Individual attention to a student suffers as a result, and especially so in repetitive language learning tasks. ASR based solutions can support a teacher's efforts in the classroom by assessing students' language reading/speaking abilities without significant time investment from them, and enable them to direct their valuable time towards targeted assistance to students.
 
 ### Vocabulary and spellings
-A teacher can do only so many vocabulary exercises and spelling-dictation activities within the classroom construct. And each of those exercises then have to be manually graded. An ASR driven front-end can help evaluate a child's vocabulary and spelling proficiency.
+A teacher can do only so many vocabulary exercises and spelling-dictation activities within the classroom construct. And each of those exercises then have to be manually graded. An ASR driven front-end can help the teacher evaluate students' vocabulary and spelling proficiencies and provide focused guidance to students.
 
 And more...
 
