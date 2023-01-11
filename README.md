@@ -12,7 +12,7 @@ These are very early days for this project. The project aims to develop AI based
 - **Offline First**    : All run-time features must be available offline. Online is optional
 - **Openness**         : Data, training algorithms and methods will also be open-source, not just an AI model end-product
 - **Extensibility**    : Allow additional data to be easily included. For example, add voice samples with heavy regional accents
-- **Privacy by design**
+- **Privacy by design**: Avoid collecting sensitive personal data unless the functionality requires it. Incorporate robust privacy practices in design.
 
 ## Broad Use cases:
 
