@@ -23,3 +23,11 @@ Teachers are invariably constrained by student:teacher ratios, prescribed syllab
 A teacher can do only so many vocabulary and spelling-dictation exercises within the classroom construct. And each of those exercises have to be manually graded by the teacher. An ASR driven front-end can help evaluate a child's vocabulary and spelling proficiency.
 
 And more...
+
+### References
+We take inspiration from similar work done by others or just to spark new ideas. We continue to explore open source projects that will help us achieve our goals. 
+- [Digitala](https://www.helsinki.fi/en/projects/digital-support-for-learning-and-assessing-second-language-speaking/about-digitala) for Finnish and Swedish languages. Many components of the Digitala software appear to be open source, available [here](https://github.com/aalto-speech).
+- [Anki](https://apps.ankiweb.net)
+- [LibreLingo](https://github.com/LibreLingo/LibreLingo)
+- [Openwords](https://github.com/Openwords/OpenwordsWebapp)
+- [Learning with Texts](https://github.com/edoreld/learning-with-texts)
