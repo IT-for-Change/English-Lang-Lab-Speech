@@ -31,3 +31,5 @@ We take inspiration from similar work done by others and to spark new ideas in d
 - [LibreLingo](https://github.com/LibreLingo/LibreLingo)
 - [Openwords](https://github.com/Openwords/OpenwordsWebapp)
 - [Learning with Texts](https://github.com/edoreld/learning-with-texts)
+
+Read more about us [here](https://itforchange.net/education)
