@@ -8,11 +8,11 @@ These are very early days for this project. The project aims to develop AI based
 ### Principles
 
 - **Pedagogy Centric** : Language learning pedagogy and teacher needs will drive software features, not the technology
-- **Teacher First**    : Support the teacher, minimize student<->device engagement
+- **Teacher First**    : Support the teacher, minimize student↔device engagement
 - **Offline First**    : All run-time features must be available offline. Online is optional
 - **Openness**         : Data, training algorithms and methods will also be open-source, not just an AI model end-product
-- **Extensibility**    : Allow additional data to be easily included. For example, add voice samples with heavy regional accents
-- **Privacy by design**: Avoid collecting sensitive personal data unless the functionality requires it. Incorporate robust privacy practices in design.
+- **Extensibility**    : Allow additional voice samples to be easily included in the model pipeline. For example, augment with region-specific accents
+- **Privacy by design**: Avoid collecting sensitive personal data unless the functionality requires it. Incorporate robust privacy practices in design
 
 ## Broad Use cases:
 
