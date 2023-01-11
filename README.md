@@ -3,7 +3,7 @@
 ## English Language Learning assisted by Automated Speech Recognition
 
 ### January 2023
-These are very early days for this project. The project aims to develop AI based English language learning software as a digital public good. This repository will hold the components of the core Automated Speech Recognition (ASR) engine.
+These are very early days for this project. The project aims to develop AI based English language learning software as a digital public good. This repository will hold the components of the core Automated Speech Recognition (ASR) engine. Other repositories may be spawned to hold frontend/api components.
 
 ### Principles
 
