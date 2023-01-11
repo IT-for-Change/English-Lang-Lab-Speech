@@ -2,6 +2,8 @@
 
 ## English Language Learning assisted by Automated Speech Recognition
 
+This is a project by the Centre for Education and Technolog, IT for Change. Read more about us [here](https://itforchange.net/education).
+
 ### January 2023
 These are very early days for this project. The project aims to develop AI based English language learning software as a digital public good. This repository will hold the components of the core Automated Speech Recognition (ASR) engine. Other repositories will be spawned to hold frontend/api components.
 
@@ -31,5 +33,3 @@ We take inspiration from similar work done by others and to spark new ideas in d
 - [LibreLingo](https://github.com/LibreLingo/LibreLingo)
 - [Openwords](https://github.com/Openwords/OpenwordsWebapp)
 - [Learning with Texts](https://github.com/edoreld/learning-with-texts)
-
-Read more about us [here](https://itforchange.net/education)
