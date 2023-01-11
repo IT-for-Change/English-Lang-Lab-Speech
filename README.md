@@ -29,7 +29,9 @@ And more...
 ### References
 We take inspiration from similar work done by others and to spark new ideas in digital language learning. We continue to explore open source projects that will help us achieve our goals. 
 - [Digitala](https://www.helsinki.fi/en/projects/digital-support-for-learning-and-assessing-second-language-speaking/about-digitala) for Finnish and Swedish languages. Many components of the Digitala software appear to be open source, available [here](https://github.com/aalto-speech).
+- [AI4Bharat](https://ai4bharat.org)
 - [Anki](https://apps.ankiweb.net)
 - [LibreLingo](https://github.com/LibreLingo/LibreLingo)
 - [Openwords](https://github.com/Openwords/OpenwordsWebapp)
 - [Learning with Texts](https://github.com/edoreld/learning-with-texts)
+- [Vosk](https://github.com/alphacep/vosk-api), whose API is open source and trained models are freely available. But as far as we can tell, the data and algorithms are not.
