@@ -9,7 +9,7 @@ These are very early days for this project. The project aims to develop AI based
 
 ### Principles
 
-- **Pedagogy Centric** : Language learning pedagogy and teacher needs will drive software features, not the technology
+- **Pedagogy Driven** : Language learning pedagogy will drive software features, not the technology
 - **Teacher First**    : Support the teacher, minimize student <-> computer interactions
 - **Offline First**    : All run-time features must be available offline. Online may be optionally included
 - **Openness**         : Data, training algorithms and methods will be open-source, not just an AI model end-product
